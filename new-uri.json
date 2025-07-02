@@ -3,7 +3,7 @@
   "symbol": "HUJ",
   "description": "To jest najlepszy coin",
   "seller_fee_basis_points": 500,
-  "image": "https://github.com/georgezaba/ikonki/blob/main/logo.png",
+  "image": "https://raw.githubusercontent.com/georgezaba/ikonki/main/logo.png",
   "external_url": "https://onet.pl",
   "attributes": [
     {
@@ -18,7 +18,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/georgezaba/ikonki/blob/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/georgezaba/ikonki/main/logo.png",
         "type": "image/png"
       }
     ],
